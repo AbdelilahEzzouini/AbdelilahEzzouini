@@ -1,10 +1,10 @@
 
 # 💫About Me :
-👋 Hi, I’m Abdelilah EZZOUINI "tanmirt" from 🇲🇦
-🔭 I’m currently a full-time tech lead at Almossaid
-💬 Ask me about PHP Laravel
-👀 I’m interested in web development technology 💻
-📫 You can reach me by scanning the following QR code.... to something 😋
+👋 Hi, I’m Abdelilah EZZOUINI "tanmirt" from 🇲🇦 </br>
+🔭 I’m currently a full-time tech lead at Almossaid </br>
+💬 Ask me about PHP Laravel </br>
+👀 I’m interested in web development technology 💻 </br>
+📫 You can reach me by scanning the following QR code.... to something 😋 </br>
 
 ![Scane me for whatsapp](https://drive.google.com/uc?id=10QRZbSQq4QOfA9o4WS3DDgRzNjQ9k2rU)
 
