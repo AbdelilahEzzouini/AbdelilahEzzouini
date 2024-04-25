@@ -39,6 +39,6 @@
 ---
 # 📊 GitHub Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ezzouini&theme=transparent&hide_border=true&card_width=500)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=ezzouini&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouini&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdelilahEzzouini&theme=transparent&hide_border=true&card_width=500)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=AbdelilahEzzouini&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelilahEzzouini&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
