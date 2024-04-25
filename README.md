@@ -1,9 +1,7 @@
-# 💫  About Me :
-👋 Hi, I’m Abdelilah EZZOUINI Full-stack web developer "tanmirt" from 🇲🇦 </br>
-🔭  I’m currently a full-time tech lead at @Almossaid </br>
-💬  Ask me about PHP Laravel </br>
-👀  I’m interested in web development technology 💻 </br>
-📫  You can reach me by scanning the following QR code.... to something 😋 
+💫 About Me:
+👋 Hi, I’m Abdelilah EZZOUINI, a Full-stack web developer hailing from 🇲🇦. Currently, I'm immersed as a full-time tech lead at @Almossaid. If you're curious about PHP Laravel or anything related to web development technology 💻, feel free to reach out!
+
+📫 You can reach me at abdelilah.ezzouini@gmail.com or by scanning the following QR code for WhatsApp:
 
 ![Scane me for whatsapp](https://drive.google.com/uc?id=10QRZbSQq4QOfA9o4WS3DDgRzNjQ9k2rU)
 
