@@ -1,4 +1,5 @@
 💫 **About Me:**
+
 👋 Hi, I’m Abdelilah Ezzouini, a full-stack web developer from 🇲🇦 and a tech lead at Almossaid. Got questions about JS, PHP, Laravel or web development? Reach out!
 
 📫 Contact: [abdelilah.ezzouini@gmail.com](mailto:abdelilah.ezzouini@gmail.com) or visit my [Portfolio website](https://abdelilah-ezzouini.almossaid.com). You can also scan the QR code below for WhatsApp.
