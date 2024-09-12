@@ -1,7 +1,7 @@
-💫 About Me:
-👋 Hi, I’m Abdelilah EZZOUINI, a Full-stack web developer hailing from 🇲🇦. Currently, I'm immersed as a full-time tech lead at @Almossaid. If you're curious about PHP Laravel or anything related to web development technology 💻, feel free to reach out!
+💫 **About Me:**
+👋 Hi, I’m Abdelilah Ezzouini, a full-stack web developer from 🇲🇦 and a tech lead at Almossaid. Got questions about JS, PHP, Laravel or web development? Reach out!
 
-📫 You can reach me at abdelilah.ezzouini@gmail.com or by scanning the following QR code for WhatsApp:
+📫 Contact: [abdelilah.ezzouini@gmail.com](mailto:abdelilah.ezzouini@gmail.com) or visit my [Portfolio website](https://abdelilah-ezzouini.almossaid.com). You can also scan the QR code below for WhatsApp.
 
 ![Scane me for whatsapp](https://drive.google.com/uc?id=10QRZbSQq4QOfA9o4WS3DDgRzNjQ9k2rU)
 
